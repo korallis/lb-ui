@@ -1,0 +1,16 @@
+## Interface: 110200
+## Title: LBUI
+## Notes: Lightweight modular UI
+## Author: ChatGPT
+core.lua
+config.lua
+modules/actionbars.lua
+modules/unitframes.lua
+modules/auras.lua
+modules/cooldowns.lua
+modules/dpsmeter.lua
+modules/nameplates.lua
+modules/mythicplus.lua
+modules/chat.lua
+modules/minimap.lua
+modules/datatexts.lua
